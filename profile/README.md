@@ -64,9 +64,9 @@ We welcome contributors and collaborators! Here's how you can get involved:
 ## 📫 Connect With Us
 
 - 🌐 **Website**: [www.kaito.tokyo](https://www.kaito.tokyo)
-- 💼 **LinkedIn**: Connect with Kaito Udagawa
-- 🐦 **Twitter**: Follow for updates on new projects
-- 📧 **Email**: Reach out for collaboration opportunities
+- 💼 **GitHub**: Follow [@umireon](https://github.com/umireon) for updates
+- 📧 **Issues & Support**: Open an issue in the relevant repository for questions or support
+- 💡 **Collaborations**: Reach out through GitHub discussions or repository issues
 
 ## 📊 GitHub Stats
 
