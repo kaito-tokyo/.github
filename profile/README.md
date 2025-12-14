@@ -2,7 +2,9 @@
 
 > **Empowering streamers and content creators with cutting-edge open-source tools**
 
-Welcome to **kaito.tokyo** - the digital workspace of [Kaito Udagawa](https://www.kaito.tokyo), where streaming technology meets creative innovation! We build professional-grade tools that help creators focus on what they do best: creating amazing content. 🚀
+Welcome to **kaito.tokyo** - the digital workspace of [Kaito Udagawa](https://www.kaito.tokyo), where streaming technology meets creative innovation! 🚀
+
+We build professional-grade tools that help creators focus on what they do best: creating amazing content.
 
 ## 🌟 What We Do
 
@@ -47,7 +49,7 @@ We specialize in developing cutting-edge tools for **streamers**, **content crea
 - **🎬 Streaming Technology** - OBS Studio plugins, real-time video processing, background removal
 - **📱 Mobile Development** - iOS applications, Swift development, cross-platform tools
 - **🌐 Web Development** - Modern web frameworks, cloud platforms, serverless computing
-- **🎮 Gaming Tools** - Stream overlays, gaming integrations, Pokémon utilities
+- **🎮 Gaming Tools** - Stream overlays, gaming integrations, game-specific utilities
 - **🔐 Authentication Services** - OAuth, OpenID Connect, Discord integrations
 - **☁️ Cloud Infrastructure** - Cloudflare Workers, Google Cloud Platform, edge computing
 
