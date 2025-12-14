@@ -1,8 +1,8 @@
 # 🎬 kaito.tokyo
 
-> **Building innovative streaming tools and creative software solutions**
+> **Empowering streamers and content creators with cutting-edge open-source tools**
 
-Welcome to **kaito.tokyo** - the digital workspace of [Kaito Udagawa](https://www.kaito.tokyo), where streaming technology meets creative innovation! 🚀
+Welcome to **kaito.tokyo** - the digital workspace of [Kaito Udagawa](https://www.kaito.tokyo), where streaming technology meets creative innovation! We build professional-grade tools that help creators focus on what they do best: creating amazing content. 🚀
 
 ## 🌟 What We Do
 
@@ -44,12 +44,12 @@ We specialize in developing cutting-edge tools for **streamers**, **content crea
 
 ## 🎯 Areas of Expertise
 
-- **🎬 Streaming Technology** - OBS plugins, real-time video processing
-- **📱 Mobile Development** - iOS applications, Swift Package Manager
-- **🌐 Web Development** - Modern web frameworks, cloud platforms
-- **🎮 Gaming Tools** - Stream overlays, gaming integrations
-- **🔐 Authentication Services** - OAuth, OpenID Connect implementations
-- **☁️ Cloud Infrastructure** - Google Cloud Platform, serverless architectures
+- **🎬 Streaming Technology** - OBS Studio plugins, real-time video processing, background removal
+- **📱 Mobile Development** - iOS applications, Swift development, cross-platform tools
+- **🌐 Web Development** - Modern web frameworks, cloud platforms, serverless computing
+- **🎮 Gaming Tools** - Stream overlays, gaming integrations, Pokémon utilities
+- **🔐 Authentication Services** - OAuth, OpenID Connect, Discord integrations
+- **☁️ Cloud Infrastructure** - Cloudflare Workers, Google Cloud Platform, edge computing
 
 ## 🌈 Get Involved
 
@@ -64,8 +64,9 @@ We welcome contributors and collaborators! Here's how you can get involved:
 ## 📫 Connect With Us
 
 - 🌐 **Website**: [www.kaito.tokyo](https://www.kaito.tokyo)
-- 💼 **GitHub**: Follow [@umireon](https://github.com/umireon) for updates
+- 💼 **GitHub**: Follow [@umireon](https://github.com/umireon) (founder) for updates
 - 📧 **Issues & Support**: Open an issue in the relevant repository for questions or support
+- 💬 **Discussions**: Join GitHub discussions in our repositories
 - 💡 **Collaborations**: Reach out through GitHub discussions or repository issues
 
 ## 📊 GitHub Stats
