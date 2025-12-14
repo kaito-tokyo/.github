@@ -71,10 +71,6 @@ We welcome contributors and collaborators! Here's how you can get involved:
 - 💬 **Discussions**: Join GitHub discussions in our repositories
 - 💡 **Collaborations**: Reach out through GitHub discussions or repository issues
 
-## 📊 GitHub Stats
-
-![Organization Stats](https://github-readme-stats.vercel.app/api?username=kaito-tokyo&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-
 ---
 
 <div align="center">
