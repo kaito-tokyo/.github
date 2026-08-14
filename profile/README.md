@@ -27,22 +27,12 @@ We specialize in developing cutting-edge tools for **streamers**, **content crea
 
 ## 🔥 Featured Projects
 
-| Project | Description | Language | Stars |
-|---------|-------------|----------|-------|
-| [**live-backgroundremoval-lite**](https://github.com/kaito-tokyo/live-backgroundremoval-lite) | Background Removal Lite for OBS Studio | C++ | ![Stars](https://img.shields.io/github/stars/kaito-tokyo/live-backgroundremoval-lite?style=flat-square) |
-| [**obs-pokemon-sv-screen-builder**](https://github.com/kaito-tokyo/obs-pokemon-sv-screen-builder) | Pokémon Scarlet/Violet battle screen builder | C++ | ![Stars](https://img.shields.io/github/stars/kaito-tokyo/obs-pokemon-sv-screen-builder?style=flat-square) |
-| [**Recoreon-iOS**](https://github.com/kaito-tokyo/Recoreon-iOS) | The evolutional screen recorder for streamers | Swift | ![Stars](https://img.shields.io/github/stars/kaito-tokyo/Recoreon-iOS?style=flat-square) |
-| [**discord-oidc-provider-cloudflare**](https://github.com/kaito-tokyo/discord-oidc-provider-cloudflare) | Discord-based OIDC provider for Cloudflare | TypeScript | ![Stars](https://img.shields.io/github/stars/kaito-tokyo/discord-oidc-provider-cloudflare?style=flat-square) |
-
-## 💻 Tech Stack
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+| Project | Description | Language |
+|---------|-------------|----------|
+| [**live-backgroundremoval-lite**](https://github.com/kaito-tokyo/live-backgroundremoval-lite) | Background Removal Lite for OBS Studio | C++ |
+| [**obs-pokemon-sv-screen-builder**](https://github.com/kaito-tokyo/obs-pokemon-sv-screen-builder) | Pokémon Scarlet/Violet battle screen builder | C++ |
+| [**Recoreon-iOS**](https://github.com/kaito-tokyo/Recoreon-iOS) | The evolutional screen recorder for streamers | Swift |
+| [**discord-oidc-provider-cloudflare**](https://github.com/kaito-tokyo/discord-oidc-provider-cloudflare) | Discord-based OIDC provider for Cloudflare | TypeScript |
 
 ## 🎯 Areas of Expertise
 
